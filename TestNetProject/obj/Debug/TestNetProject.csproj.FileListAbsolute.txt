@@ -1,0 +1,6 @@
+C:\Users\karthik.sk\source\repos\TestNetProject\TestNetProject\bin\Debug\TestNetProject.exe.config
+C:\Users\karthik.sk\source\repos\TestNetProject\TestNetProject\bin\Debug\TestNetProject.exe
+C:\Users\karthik.sk\source\repos\TestNetProject\TestNetProject\bin\Debug\TestNetProject.pdb
+C:\Users\karthik.sk\source\repos\TestNetProject\TestNetProject\obj\Debug\TestNetProject.csprojAssemblyReference.cache
+C:\Users\karthik.sk\source\repos\TestNetProject\TestNetProject\obj\Debug\TestNetProject.exe
+C:\Users\karthik.sk\source\repos\TestNetProject\TestNetProject\obj\Debug\TestNetProject.pdb

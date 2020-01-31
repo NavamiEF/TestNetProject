@@ -10,8 +10,6 @@ namespace TestNetProject
     {
         static void Main(string[] args)
         {
-			int sum = 1 + 2;
-			int quotient = 0/0
             Console.WriteLine("Hello World!");
         }
     }
